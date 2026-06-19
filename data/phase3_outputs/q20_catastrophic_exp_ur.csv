@@ -1,0 +1,1183 @@
+country,year,dim1,catex_pct
+Afghanistan,2013,Urban,11.11
+Afghanistan,2007,Urban,2.25
+Albania,2012,Urban,14.67
+Albania,2008,Urban,15.77
+Albania,2005,Urban,22.14
+Albania,2002,Urban,16.93
+Albania,1996,Urban,6.9
+Angola,2008,Urban,11.9
+Argentina,2004,Urban,17.35
+Armenia,2013,Urban,18.79
+Armenia,2012,Urban,10.28
+Armenia,2011,Urban,13.63
+Armenia,2010,Urban,6.23
+Armenia,2009,Urban,4.69
+Armenia,2008,Urban,4.48
+Armenia,2007,Urban,4.14
+Armenia,2006,Urban,11.72
+Armenia,2005,Urban,11.97
+Armenia,2004,Urban,16.8
+Armenia,2003,Urban,11.35
+Armenia,2002,Urban,11.33
+Armenia,2001,Urban,13.33
+Armenia,1999,Urban,15.33
+Azerbaijan,2005,Urban,8.44
+Azerbaijan,2004,Urban,7.56
+Azerbaijan,2003,Urban,6.7
+Azerbaijan,2002,Urban,7.14
+Bangladesh,2016,Urban,21.0
+Bangladesh,2010,Urban,8.27
+Bangladesh,2005,Urban,11.76
+Bangladesh,2000,Urban,15.92
+Belarus,2016,Urban,7.76
+Belarus,2015,Urban,7.12
+Belarus,2014,Urban,6.28
+Belarus,2013,Urban,6.6
+Belarus,2012,Urban,4.59
+Belarus,2011,Urban,3.23
+Belarus,2010,Urban,3.02
+Belarus,2009,Urban,3.11
+Belarus,2008,Urban,2.66
+Belarus,2007,Urban,1.95
+Belarus,2006,Urban,2.3
+Belarus,2005,Urban,1.82
+Belarus,2004,Urban,2.35
+Belarus,2003,Urban,3.41
+Belarus,2002,Urban,3.37
+Belarus,2001,Urban,2.05
+Belarus,2000,Urban,1.62
+Belarus,1999,Urban,1.13
+Belarus,1998,Urban,0.88
+Belgium,2010,Urban,11.35
+Benin,2011,Urban,9.05
+Benin,2003,Urban,10.26
+Bhutan,2017,Urban,1.96
+Bhutan,2012,Urban,2.64
+Bhutan,2007,Urban,1.82
+Bhutan,2003,Urban,3.93
+Bolivia (Plurinational State of),2015,Urban,5.82
+Bolivia (Plurinational State of),2012,Urban,2.72
+Bolivia (Plurinational State of),2011,Urban,4.04
+Bolivia (Plurinational State of),2008,Urban,3.75
+Bolivia (Plurinational State of),2002,Urban,7.63
+Bolivia (Plurinational State of),2001,Urban,7.46
+Bolivia (Plurinational State of),2000,Urban,11.24
+Bolivia (Plurinational State of),1999,Urban,11.19
+Bosnia and Herzegovina,2015,Urban,7.68
+Bosnia and Herzegovina,2011,Urban,7.71
+Bosnia and Herzegovina,2007,Urban,8.75
+Bosnia and Herzegovina,2004,Urban,4.88
+Bosnia and Herzegovina,2001,Urban,13.8
+Botswana,2009,Urban,1.28
+Brazil,2008,Urban,25.74
+Bulgaria,2010,Urban,8.88
+Bulgaria,2007,Urban,14.51
+Bulgaria,2001,Urban,9.11
+Bulgaria,2000,Urban,8.54
+Bulgaria,1997,Urban,2.06
+Bulgaria,1995,Urban,2.24
+Burkina Faso,2014,Urban,4.16
+Burkina Faso,2009,Urban,4.63
+Burkina Faso,2003,Urban,13.89
+Burkina Faso,1998,Urban,17.34
+Burundi,2013,Urban,5.26
+Burundi,1998,Urban,3.82
+Cabo Verde,2007,Urban,1.82
+Cabo Verde,2001,Urban,3.11
+Cambodia,2014,Urban,8.11
+Cambodia,2009,Urban,14.95
+Cameroon,2014,Urban,12.46
+Cameroon,2007,Urban,7.7
+Cameroon,2001,Urban,14.79
+Cameroon,1996,Urban,17.84
+Central African Republic,2008,Urban,6.3
+Chad,2003,Urban,6.62
+Chile,2006,Urban,9.17
+China,2007,Urban,17.62
+China,2002,Urban,18.23
+China,1995,Urban,4.78
+Colombia,2016,Urban,8.18
+Colombia,2010,Urban,17.1
+Colombia,2008,Urban,20.44
+Congo,2011,Urban,3.28
+Congo,2005,Urban,12.24
+Costa Rica,2012,Urban,10.62
+Costa Rica,2004,Urban,5.0
+Costa Rica,1992,Urban,1.06
+Côte d’Ivoire,2015,Urban,10.82
+Côte d’Ivoire,2008,Urban,15.8
+Côte d’Ivoire,2002,Urban,18.37
+Côte d’Ivoire,1998,Urban,21.56
+Croatia,2010,Urban,3.37
+Croatia,2009,Urban,3.11
+Croatia,2008,Urban,2.81
+Croatia,2004,Urban,3.21
+Croatia,1998,Urban,5.23
+Cyprus,2010,Urban,17.16
+Czechia,2010,Urban,2.67
+Democratic Republic of the Congo,2012,Urban,3.87
+Democratic Republic of the Congo,2004,Urban,4.08
+Denmark,2010,Urban,3.91
+Djibouti,1996,Urban,1.48
+Dominican Republic,2007,Urban,17.13
+Ecuador,2011,Urban,17.68
+Ecuador,1998,Urban,8.3
+Egypt,2012,Urban,23.91
+Egypt,2008,Urban,15.96
+Egypt,1997,Urban,6.68
+El Salvador,2014,Urban,1.17
+Estonia,2007,Urban,13.87
+Estonia,2006,Urban,14.48
+Estonia,2005,Urban,10.83
+Estonia,2004,Urban,12.59
+Estonia,2003,Urban,9.64
+Estonia,2002,Urban,7.1
+Estonia,2000,Urban,7.12
+Estonia,1995,Urban,3.48
+Eswatini,2009,Urban,11.83
+Ethiopia,2015,Urban,7.7
+Ethiopia,2011,Urban,2.64
+Ethiopia,2004,Urban,1.22
+Ethiopia,1999,Urban,1.66
+Fiji,2008,Urban,1.17
+Fiji,2002,Urban,3.11
+Finland,2010,Urban,6.83
+France,2010,Urban,1.66
+Gabon,2005,Urban,5.71
+Gambia,2015,Urban,0.16
+Gambia,2010,Urban,0.49
+Gambia,2003,Urban,1.02
+Georgia,2013,Urban,25.85
+Georgia,2012,Urban,25.75
+Georgia,2011,Urban,28.53
+Georgia,2010,Urban,29.06
+Georgia,2009,Urban,30.19
+Georgia,2008,Urban,21.44
+Georgia,2007,Urban,18.68
+Georgia,2006,Urban,18.76
+Georgia,2005,Urban,18.15
+Georgia,2004,Urban,14.56
+Georgia,2003,Urban,15.23
+Georgia,2002,Urban,17.82
+Georgia,2001,Urban,15.16
+Georgia,2000,Urban,11.56
+Georgia,1999,Urban,7.75
+Georgia,1998,Urban,7.0
+Georgia,1997,Urban,6.83
+Germany,2010,Urban,1.89
+Ghana,2012,Urban,1.01
+Ghana,2005,Urban,3.32
+Ghana,1998,Urban,5.71
+Ghana,1991,Urban,4.09
+Greece,2016,Urban,16.18
+Greece,2010,Urban,12.68
+Guatemala,2014,Urban,1.46
+Guatemala,2011,Urban,10.28
+Guatemala,2000,Urban,6.38
+Guinea,2012,Urban,6.37
+Guinea,2007,Urban,4.16
+Guinea,2002,Urban,9.58
+Guyana,1993,Urban,2.98
+Haiti,2013,Urban,11.14
+Haiti,2012,Urban,9.17
+Honduras,2004,Urban,1.37
+Hungary,2010,Urban,7.57
+Hungary,2007,Urban,11.48
+Hungary,2006,Urban,9.99
+Hungary,2005,Urban,10.85
+Hungary,2004,Urban,10.51
+Hungary,2003,Urban,13.1
+Hungary,2002,Urban,10.39
+Hungary,2001,Urban,9.03
+Hungary,2000,Urban,8.81
+Hungary,1999,Urban,7.24
+Hungary,1998,Urban,6.4
+India,2011,Urban,16.69
+India,2009,Urban,13.71
+India,2004,Urban,14.44
+Indonesia,2018,Urban,2.82
+Indonesia,2015,Urban,4.09
+Indonesia,2014,Urban,5.02
+Indonesia,2013,Urban,4.3
+Indonesia,2012,Urban,3.9
+Indonesia,2011,Urban,4.62
+Indonesia,2010,Urban,4.03
+Indonesia,2009,Urban,4.1
+Indonesia,2007,Urban,2.86
+Indonesia,2006,Urban,2.26
+Indonesia,2005,Urban,2.53
+Indonesia,2004,Urban,2.5
+Indonesia,2003,Urban,2.33
+Indonesia,2002,Urban,2.78
+Indonesia,2001,Urban,3.44
+Iraq,2012,Urban,3.28
+Iraq,2006,Urban,3.28
+Ireland,2010,Urban,6.03
+Ireland,2009,Urban,5.34
+Ireland,1999,Urban,5.75
+Italy,2010,Urban,8.8
+Jamaica,2004,Urban,9.01
+Jamaica,2003,Urban,10.41
+Jamaica,2002,Urban,9.94
+Jamaica,1997,Urban,4.64
+Jamaica,1996,Urban,6.37
+Jamaica,1995,Urban,7.33
+Jamaica,1994,Urban,9.56
+Jamaica,1993,Urban,11.44
+Jamaica,1992,Urban,10.09
+Jamaica,1991,Urban,9.73
+Jamaica,1990,Urban,7.25
+Jordan,2008,Urban,1.89
+Jordan,2006,Urban,5.46
+Jordan,2002,Urban,1.77
+Kazakhstan,2015,Urban,1.22
+Kazakhstan,2014,Urban,1.11
+Kazakhstan,2013,Urban,1.07
+Kazakhstan,2012,Urban,0.98
+Kazakhstan,2011,Urban,0.75
+Kazakhstan,2010,Urban,4.49
+Kazakhstan,2009,Urban,4.0
+Kazakhstan,2008,Urban,5.31
+Kazakhstan,2007,Urban,5.18
+Kazakhstan,2006,Urban,1.83
+Kazakhstan,2005,Urban,2.52
+Kazakhstan,2004,Urban,3.64
+Kazakhstan,2003,Urban,2.96
+Kazakhstan,2002,Urban,2.84
+Kazakhstan,2001,Urban,2.71
+Kenya,2015,Urban,6.02
+Kenya,2005,Urban,5.61
+Kenya,1997,Urban,7.45
+Kyrgyzstan,2016,Urban,2.73
+Kyrgyzstan,2015,Urban,5.16
+Kyrgyzstan,2014,Urban,3.05
+Kyrgyzstan,2013,Urban,2.77
+Kyrgyzstan,2012,Urban,2.19
+Kyrgyzstan,2011,Urban,3.35
+Kyrgyzstan,2010,Urban,2.98
+Kyrgyzstan,2009,Urban,2.87
+Kyrgyzstan,2008,Urban,2.65
+Kyrgyzstan,2007,Urban,2.24
+Kyrgyzstan,2006,Urban,2.93
+Kyrgyzstan,2005,Urban,2.92
+Lao People's Democratic Republic,2007,Urban,3.33
+Lao People's Democratic Republic,2002,Urban,2.67
+Latvia,2009,Urban,15.16
+Latvia,2008,Urban,12.63
+Latvia,2007,Urban,15.93
+Latvia,2005,Urban,12.78
+Latvia,2004,Urban,13.07
+Latvia,2003,Urban,9.96
+Latvia,2002,Urban,9.63
+Latvia,2000,Urban,12.18
+Lesotho,2010,Urban,8.11
+Lesotho,2002,Urban,1.8
+Lithuania,2010,Urban,8.21
+Lithuania,2008,Urban,13.77
+Lithuania,2004,Urban,12.73
+Lithuania,2003,Urban,12.71
+Lithuania,2002,Urban,12.48
+Lithuania,2001,Urban,11.9
+Lithuania,2000,Urban,10.16
+Lithuania,1999,Urban,8.01
+Lithuania,1998,Urban,7.86
+Luxembourg,2010,Urban,2.99
+Madagascar,2010,Urban,1.78
+Madagascar,2005,Urban,0.4
+Madagascar,2001,Urban,1.14
+Malawi,2016,Urban,2.55
+Malawi,2010,Urban,2.59
+Malawi,2004,Urban,3.3
+Malawi,1997,Urban,6.45
+Malaysia,2016,Urban,1.88
+Malaysia,2004,Urban,0.88
+Malaysia,1993,Urban,2.04
+Maldives,2016,Urban,8.09
+Maldives,2009,Urban,13.76
+Maldives,2004,Urban,6.85
+Mali,2016,Urban,6.96
+Mali,2015,Urban,2.35
+Mali,2014,Urban,1.96
+Mali,2013,Urban,2.03
+Mali,2011,Urban,3.02
+Mali,2009,Urban,3.47
+Mali,2001,Urban,2.88
+Mali,2000,Urban,6.25
+Mali,1994,Urban,8.06
+Malta,2010,Urban,15.8
+Mauritania,2014,Urban,6.92
+Mauritania,2008,Urban,9.81
+Mauritania,2004,Urban,9.78
+Mauritius,2006,Urban,7.7
+Mexico,2016,Urban,1.36
+Mexico,2014,Urban,2.27
+Mexico,2012,Urban,2.17
+Mexico,2010,Urban,2.56
+Mexico,2008,Urban,3.22
+Mongolia,2014,Urban,1.25
+Mongolia,2012,Urban,2.49
+Mongolia,2011,Urban,1.7
+Mongolia,2010,Urban,1.28
+Mongolia,2007,Urban,1.35
+Mongolia,2002,Urban,2.24
+Montenegro,2015,Urban,9.64
+Montenegro,2014,Urban,9.6
+Montenegro,2013,Urban,9.59
+Montenegro,2012,Urban,7.77
+Montenegro,2011,Urban,10.47
+Montenegro,2010,Urban,8.14
+Montenegro,2009,Urban,8.25
+Montenegro,2008,Urban,6.95
+Montenegro,2007,Urban,10.02
+Montenegro,2006,Urban,7.98
+Montenegro,2005,Urban,10.95
+Morocco,2006,Urban,25.29
+Morocco,2000,Urban,12.43
+Mozambique,2014,Urban,1.54
+Mozambique,2008,Urban,1.09
+Mozambique,2002,Urban,3.62
+Myanmar,2015,Urban,13.18
+Namibia,2009,Urban,1.97
+Nepal,2014,Urban,11.93
+Nepal,2010,Urban,21.22
+Nepal,2003,Urban,7.45
+Nicaragua,2014,Urban,13.56
+Nicaragua,2009,Urban,14.1
+Nicaragua,2001,Urban,16.03
+Nicaragua,1998,Urban,11.07
+Nicaragua,1993,Urban,10.14
+Niger,2011,Urban,12.03
+Niger,2007,Urban,6.1
+Niger,2005,Urban,6.53
+Nigeria,2003,Urban,13.92
+Oman,1999,Urban,0.61
+Pakistan,2015,Urban,2.76
+Pakistan,2013,Urban,3.14
+Pakistan,2011,Urban,2.53
+Pakistan,2010,Urban,1.89
+Pakistan,2007,Urban,1.39
+Pakistan,2004,Urban,2.44
+Pakistan,2001,Urban,3.56
+Pakistan,1991,Urban,4.23
+Panama,1997,Urban,10.04
+Paraguay,2014,Urban,4.73
+Paraguay,2000,Urban,7.83
+Peru,2018,Urban,9.96
+Peru,2017,Urban,8.5
+Peru,2016,Urban,8.84
+Peru,2015,Urban,8.58
+Peru,2014,Urban,9.5
+Peru,2013,Urban,11.08
+Peru,2012,Urban,12.19
+Peru,2011,Urban,11.78
+Peru,2010,Urban,12.15
+Peru,2009,Urban,11.54
+Peru,2008,Urban,12.14
+Peru,2007,Urban,12.28
+Peru,2006,Urban,11.89
+Peru,2000,Urban,11.22
+Poland,2016,Urban,13.44
+Poland,2015,Urban,12.22
+Poland,2014,Urban,11.62
+Poland,2013,Urban,12.45
+Poland,2012,Urban,12.92
+Poland,2011,Urban,14.58
+Poland,2009,Urban,15.19
+Poland,2008,Urban,14.5
+Poland,2007,Urban,14.7
+Poland,2006,Urban,14.2
+Poland,2005,Urban,14.83
+Poland,2004,Urban,11.8
+Poland,2003,Urban,10.48
+Poland,2002,Urban,12.12
+Poland,2001,Urban,12.62
+Poland,2000,Urban,12.49
+Poland,1999,Urban,12.11
+Poland,1998,Urban,11.12
+Portugal,2010,Urban,15.07
+Republic of Korea,2015,Urban,21.47
+Republic of Korea,2014,Urban,21.9
+Republic of Korea,2013,Urban,20.94
+Republic of Korea,2012,Urban,20.21
+Republic of Korea,2011,Urban,20.92
+Republic of Korea,2010,Urban,19.87
+Republic of Korea,2009,Urban,19.42
+Republic of Korea,2008,Urban,17.35
+Republic of Korea,2007,Urban,17.94
+Republic of Korea,2006,Urban,17.31
+Republic of Korea,2005,Urban,14.33
+Republic of Korea,2004,Urban,14.7
+Republic of Korea,2003,Urban,13.51
+Republic of Korea,2002,Urban,13.96
+Republic of Korea,2001,Urban,12.35
+Republic of Korea,2000,Urban,13.3
+Republic of Korea,1999,Urban,14.59
+Republic of Korea,1998,Urban,15.49
+Republic of Korea,1997,Urban,15.14
+Republic of Korea,1996,Urban,15.63
+Republic of Korea,1995,Urban,15.89
+Republic of Moldova,2016,Urban,19.61
+Republic of Moldova,2015,Urban,18.96
+Republic of Moldova,2014,Urban,17.7
+Republic of Moldova,2013,Urban,14.97
+Republic of Moldova,2012,Urban,13.96
+Republic of Moldova,2011,Urban,14.5
+Republic of Moldova,2010,Urban,16.29
+Republic of Moldova,2009,Urban,17.0
+Republic of Moldova,2008,Urban,15.75
+Republic of Moldova,2007,Urban,15.64
+Republic of Moldova,2006,Urban,15.95
+Republic of Moldova,2005,Urban,11.5
+Republic of Moldova,2004,Urban,11.28
+Republic of Moldova,2003,Urban,11.43
+Republic of Moldova,2002,Urban,10.28
+Republic of Moldova,2001,Urban,9.71
+Republic of Moldova,2000,Urban,8.92
+Republic of Moldova,1999,Urban,10.4
+The former Yugoslav Republic of Macedonia,2008,Urban,6.01
+The former Yugoslav Republic of Macedonia,2006,Urban,6.62
+The former Yugoslav Republic of Macedonia,2005,Urban,7.13
+The former Yugoslav Republic of Macedonia,2004,Urban,6.27
+The former Yugoslav Republic of Macedonia,2003,Urban,6.55
+The former Yugoslav Republic of Macedonia,2002,Urban,5.73
+The former Yugoslav Republic of Macedonia,2000,Urban,1.67
+The former Yugoslav Republic of Macedonia,1999,Urban,1.63
+The former Yugoslav Republic of Macedonia,1998,Urban,1.59
+The former Yugoslav Republic of Macedonia,1997,Urban,1.87
+The former Yugoslav Republic of Macedonia,1996,Urban,2.44
+Romania,2016,Urban,12.6
+Romania,2013,Urban,9.66
+Romania,2012,Urban,14.21
+Romania,2011,Urban,15.68
+Romania,2010,Urban,14.64
+Romania,2009,Urban,14.28
+Romania,2008,Urban,12.13
+Romania,2007,Urban,12.71
+Romania,2006,Urban,12.21
+Romania,2005,Urban,11.74
+Romania,2004,Urban,10.01
+Romania,2003,Urban,9.2
+Romania,2002,Urban,8.41
+Romania,2001,Urban,7.88
+Romania,2000,Urban,8.15
+Romania,1999,Urban,7.97
+Romania,1998,Urban,6.67
+Russian Federation,2014,Urban,3.21
+Russian Federation,2013,Urban,3.52
+Russian Federation,2012,Urban,2.1
+Russian Federation,2011,Urban,1.95
+Russian Federation,2010,Urban,2.63
+Russian Federation,2004,Urban,2.71
+Russian Federation,2003,Urban,1.49
+Russian Federation,2002,Urban,3.55
+Russian Federation,2001,Urban,2.14
+Russian Federation,2000,Urban,3.74
+Russian Federation,1999,Urban,2.25
+Russian Federation,1998,Urban,3.31
+Russian Federation,1997,Urban,3.98
+Russian Federation,1993,Urban,1.75
+Rwanda,2016,Urban,1.23
+Rwanda,2013,Urban,1.44
+Sao Tome and Principe,2000,Urban,12.2
+Senegal,2011,Urban,3.11
+Senegal,2005,Urban,1.8
+Senegal,2001,Urban,1.13
+Serbia,2015,Urban,9.32
+Serbia,2013,Urban,8.74
+Serbia,2010,Urban,8.2
+Serbia,2009,Urban,8.61
+Serbia,2008,Urban,10.18
+Serbia,2007,Urban,11.97
+Serbia,2006,Urban,10.67
+Serbia,2005,Urban,11.36
+Serbia,2004,Urban,9.27
+Serbia,2003,Urban,8.1
+Seychelles,2013,Urban,3.55
+Sierra Leone,2011,Urban,53.66
+Sierra Leone,2003,Urban,12.52
+Slovakia,2010,Urban,4.23
+Slovakia,2009,Urban,5.26
+Slovakia,2008,Urban,4.89
+Slovakia,2007,Urban,4.45
+Slovakia,2006,Urban,4.47
+Slovakia,2005,Urban,5.3
+Slovakia,2004,Urban,5.55
+South Africa,2010,Urban,1.4
+South Africa,2005,Urban,1.61
+South Africa,2000,Urban,5.52
+South Sudan,2009,Urban,14.22
+Spain,2010,Urban,5.46
+Sri Lanka,2016,Urban,5.5
+Sri Lanka,2012,Urban,5.27
+Sudan (until 2011),2009,Urban,15.89
+Suriname,2016,Urban,5.8
+Tajikistan,2009,Urban,16.65
+Tajikistan,2007,Urban,10.52
+Tajikistan,2003,Urban,19.43
+Tajikistan,1999,Urban,18.01
+Thailand,2017,Urban,2.41
+Thailand,2009,Urban,1.66
+Thailand,2006,Urban,3.03
+Thailand,2002,Urban,4.18
+Timor-Leste,2014,Urban,5.46
+Timor-Leste,2011,Urban,0.0
+Timor-Leste,2007,Urban,0.0
+Timor-Leste,2001,Urban,1.2
+Togo,2006,Urban,8.77
+Trinidad and Tobago,2014,Urban,2.55
+Tunisia,2010,Urban,16.45
+Turkey,2013,Urban,3.58
+Turkey,2012,Urban,2.86
+Turkey,2011,Urban,2.98
+Turkey,2010,Urban,3.2
+Turkey,2009,Urban,3.25
+Turkey,2008,Urban,3.7
+Turkey,2007,Urban,4.65
+Turkey,2006,Urban,4.6
+Turkey,2005,Urban,4.65
+Turkey,2004,Urban,5.25
+Turkey,2003,Urban,4.36
+Turkey,2002,Urban,4.72
+Uganda,2016,Urban,13.67
+Uganda,2012,Urban,16.96
+Uganda,2009,Urban,17.38
+Uganda,2002,Urban,9.51
+Ukraine,2014,Urban,8.61
+Ukraine,2013,Urban,6.78
+Ukraine,2012,Urban,7.36
+Ukraine,2011,Urban,6.93
+Ukraine,2010,Urban,7.09
+Ukraine,2009,Urban,6.75
+Ukraine,2008,Urban,5.25
+Ukraine,2007,Urban,8.37
+Ukraine,2006,Urban,8.32
+Ukraine,2005,Urban,8.01
+Ukraine,2004,Urban,10.34
+Ukraine,2003,Urban,10.95
+Ukraine,2002,Urban,12.46
+United Republic of Tanzania,2011,Urban,2.64
+United Republic of Tanzania,2007,Urban,2.62
+United Republic of Tanzania,2000,Urban,2.41
+United States of America,2013,Urban,4.5
+United States of America,2012,Urban,4.79
+United States of America,2011,Urban,4.45
+United States of America,2010,Urban,4.51
+United States of America,2009,Urban,4.43
+United States of America,2008,Urban,4.27
+United States of America,2007,Urban,4.62
+United States of America,2006,Urban,5.08
+United States of America,2005,Urban,5.36
+United States of America,2004,Urban,5.11
+United States of America,2003,Urban,5.42
+United States of America,2002,Urban,5.81
+United States of America,2001,Urban,5.36
+United States of America,2000,Urban,5.48
+Uzbekistan,2003,Urban,8.72
+Uzbekistan,2002,Urban,7.13
+Uzbekistan,2000,Urban,9.21
+Viet Nam,2016,Urban,9.14
+Viet Nam,2014,Urban,7.46
+Viet Nam,2012,Urban,8.78
+Viet Nam,2010,Urban,9.96
+Viet Nam,2008,Urban,11.62
+Viet Nam,2006,Urban,12.36
+Viet Nam,2004,Urban,13.65
+Viet Nam,2002,Urban,9.88
+Viet Nam,1998,Urban,10.48
+Viet Nam,1997,Urban,10.48
+Viet Nam,1992,Urban,15.07
+Yemen,2014,Urban,12.35
+Yemen,2005,Urban,11.89
+Yemen,1998,Urban,5.27
+Zambia,2010,Urban,0.36
+Zambia,2006,Urban,2.1
+Zambia,2004,Urban,3.3
+Zimbabwe,2007,Urban,4.19
+Afghanistan,2013,Rural,15.73
+Afghanistan,2007,Rural,5.53
+Albania,2012,Rural,19.14
+Albania,2008,Rural,12.0
+Albania,2005,Rural,16.16
+Albania,2002,Rural,27.96
+Albania,1996,Rural,7.64
+Angola,2008,Rural,12.81
+Argentina,2004,Rural,11.34
+Armenia,2013,Rural,11.54
+Armenia,2012,Rural,15.98
+Armenia,2011,Rural,11.32
+Armenia,2010,Rural,4.27
+Armenia,2009,Rural,3.95
+Armenia,2008,Rural,4.58
+Armenia,2007,Rural,4.32
+Armenia,2006,Rural,9.3
+Armenia,2005,Rural,12.14
+Armenia,2004,Rural,15.58
+Armenia,2003,Rural,9.53
+Armenia,2002,Rural,11.68
+Armenia,2001,Rural,10.15
+Armenia,1999,Rural,15.39
+Azerbaijan,2005,Rural,7.77
+Azerbaijan,2004,Rural,7.71
+Azerbaijan,2003,Rural,7.32
+Azerbaijan,2002,Rural,6.79
+Bangladesh,2016,Rural,26.05
+Bangladesh,2010,Rural,15.85
+Bangladesh,2005,Rural,12.53
+Bangladesh,2000,Rural,10.6
+Belarus,2016,Rural,9.65
+Belarus,2015,Rural,8.01
+Belarus,2014,Rural,4.37
+Belarus,2013,Rural,5.17
+Belarus,2012,Rural,3.76
+Belarus,2011,Rural,3.39
+Belarus,2010,Rural,3.09
+Belarus,2009,Rural,3.54
+Belarus,2008,Rural,3.35
+Belarus,2007,Rural,2.87
+Belarus,2006,Rural,3.37
+Belarus,2005,Rural,2.4
+Belarus,2004,Rural,3.53
+Belarus,2003,Rural,3.94
+Belarus,2002,Rural,3.66
+Belarus,2001,Rural,1.35
+Belarus,2000,Rural,0.38
+Belarus,1999,Rural,0.44
+Belarus,1998,Rural,0.21
+Belgium,2010,Rural,11.57
+Benin,2011,Rural,12.28
+Benin,2003,Rural,11.59
+Bhutan,2017,Rural,1.7
+Bhutan,2012,Rural,4.62
+Bhutan,2007,Rural,4.0
+Bhutan,2003,Rural,5.72
+Bolivia (Plurinational State of),2015,Rural,6.45
+Bolivia (Plurinational State of),2012,Rural,2.13
+Bolivia (Plurinational State of),2011,Rural,3.42
+Bolivia (Plurinational State of),2008,Rural,4.69
+Bolivia (Plurinational State of),2002,Rural,9.24
+Bolivia (Plurinational State of),2001,Rural,8.64
+Bolivia (Plurinational State of),2000,Rural,10.76
+Bolivia (Plurinational State of),1999,Rural,13.96
+Bosnia and Herzegovina,2015,Rural,8.53
+Bosnia and Herzegovina,2011,Rural,9.15
+Bosnia and Herzegovina,2007,Rural,11.22
+Bosnia and Herzegovina,2004,Rural,6.02
+Bosnia and Herzegovina,2001,Rural,15.14
+Botswana,2009,Rural,0.64
+Brazil,2008,Rural,24.87
+Bulgaria,2010,Rural,15.86
+Bulgaria,2007,Rural,11.9
+Bulgaria,2001,Rural,8.1
+Bulgaria,2000,Rural,7.87
+Bulgaria,1997,Rural,1.18
+Bulgaria,1995,Rural,1.79
+Burkina Faso,2014,Rural,2.84
+Burkina Faso,2009,Rural,3.19
+Burkina Faso,2003,Rural,7.24
+Burkina Faso,1998,Rural,9.71
+Burundi,2013,Rural,3.07
+Burundi,1998,Rural,2.28
+Cabo Verde,2007,Rural,2.35
+Cabo Verde,2001,Rural,2.46
+Cambodia,2014,Rural,17.24
+Cambodia,2009,Rural,21.11
+Cameroon,2014,Rural,9.65
+Cameroon,2007,Rural,12.02
+Cameroon,2001,Rural,8.17
+Cameroon,1996,Rural,25.57
+Central African Republic,2008,Rural,7.02
+Chad,2003,Rural,6.19
+Chile,2006,Rural,9.23
+China,2007,Rural,17.84
+China,2002,Rural,15.0
+China,1995,Rural,6.65
+Colombia,2016,Rural,7.46
+Colombia,2010,Rural,16.33
+Colombia,2008,Rural,18.64
+Congo,2011,Rural,7.23
+Congo,2005,Rural,13.03
+Costa Rica,2012,Rural,7.75
+Costa Rica,2004,Rural,3.37
+Costa Rica,1992,Rural,1.48
+Côte d’Ivoire,2015,Rural,13.96
+Côte d’Ivoire,2008,Rural,18.97
+Côte d’Ivoire,2002,Rural,19.62
+Côte d’Ivoire,1998,Rural,18.59
+Croatia,2010,Rural,2.26
+Croatia,2009,Rural,1.75
+Croatia,2008,Rural,1.68
+Croatia,2004,Rural,1.47
+Croatia,1998,Rural,3.63
+Cyprus,2010,Rural,14.58
+Czechia,2010,Rural,1.97
+Democratic Republic of the Congo,2012,Rural,5.41
+Democratic Republic of the Congo,2004,Rural,3.87
+Denmark,2010,Rural,2.47
+Djibouti,1996,Rural,0.48
+Dominican Republic,2007,Rural,18.76
+Ecuador,2011,Rural,19.8
+Ecuador,1998,Rural,10.3
+Egypt,2012,Rural,27.8
+Egypt,2008,Rural,10.19
+Egypt,1997,Rural,8.48
+El Salvador,2014,Rural,2.56
+Estonia,2007,Rural,10.65
+Estonia,2006,Rural,14.77
+Estonia,2005,Rural,10.71
+Estonia,2004,Rural,9.67
+Estonia,2003,Rural,10.87
+Estonia,2002,Rural,7.34
+Estonia,2000,Rural,5.57
+Estonia,1995,Rural,1.74
+Eswatini,2009,Rural,13.89
+Ethiopia,2015,Rural,4.12
+Ethiopia,2011,Rural,1.82
+Ethiopia,2004,Rural,0.75
+Ethiopia,1999,Rural,1.57
+Fiji,2008,Rural,0.49
+Fiji,2002,Rural,3.58
+Finland,2010,Rural,5.51
+France,2010,Rural,1.22
+Gabon,2005,Rural,5.42
+Gambia,2015,Rural,0.24
+Gambia,2010,Rural,0.73
+Gambia,2003,Rural,0.11
+Georgia,2013,Rural,32.44
+Georgia,2012,Rural,29.42
+Georgia,2011,Rural,27.83
+Georgia,2010,Rural,27.91
+Georgia,2009,Rural,27.91
+Georgia,2008,Rural,23.98
+Georgia,2007,Rural,22.09
+Georgia,2006,Rural,18.67
+Georgia,2005,Rural,16.66
+Georgia,2004,Rural,14.52
+Georgia,2003,Rural,14.1
+Georgia,2002,Rural,15.22
+Georgia,2001,Rural,12.67
+Georgia,2000,Rural,13.26
+Georgia,1999,Rural,8.3
+Georgia,1998,Rural,6.55
+Georgia,1997,Rural,9.34
+Germany,2010,Rural,1.31
+Ghana,2012,Rural,1.21
+Ghana,2005,Rural,2.99
+Ghana,1998,Rural,6.08
+Ghana,1991,Rural,5.04
+Greece,2016,Rural,18.84
+Greece,2010,Rural,16.41
+Guatemala,2014,Rural,1.26
+Guatemala,2011,Rural,8.5
+Guatemala,2000,Rural,1.98
+Guinea,2012,Rural,7.25
+Guinea,2007,Rural,4.36
+Guinea,2002,Rural,9.71
+Guyana,1993,Rural,2.58
+Haiti,2013,Rural,11.92
+Haiti,2012,Rural,9.67
+Honduras,2004,Rural,0.92
+Hungary,2010,Rural,7.3
+Hungary,2007,Rural,11.65
+Hungary,2006,Rural,10.28
+Hungary,2005,Rural,10.18
+Hungary,2004,Rural,9.82
+Hungary,2003,Rural,11.06
+Hungary,2002,Rural,8.41
+Hungary,2001,Rural,7.1
+Hungary,2000,Rural,7.28
+Hungary,1999,Rural,6.44
+Hungary,1998,Rural,5.43
+India,2011,Rural,18.45
+India,2009,Rural,13.99
+India,2004,Rural,15.85
+Indonesia,2018,Rural,2.58
+Indonesia,2015,Rural,3.11
+Indonesia,2014,Rural,3.74
+Indonesia,2013,Rural,3.19
+Indonesia,2012,Rural,2.99
+Indonesia,2011,Rural,3.13
+Indonesia,2010,Rural,2.86
+Indonesia,2009,Rural,2.92
+Indonesia,2007,Rural,2.29
+Indonesia,2006,Rural,1.47
+Indonesia,2005,Rural,1.84
+Indonesia,2004,Rural,1.73
+Indonesia,2003,Rural,1.67
+Indonesia,2002,Rural,1.89
+Indonesia,2001,Rural,1.87
+Iraq,2012,Rural,3.33
+Iraq,2006,Rural,3.33
+Ireland,2010,Rural,6.61
+Ireland,2009,Rural,5.99
+Ireland,1999,Rural,5.33
+Italy,2010,Rural,9.82
+Jamaica,2004,Rural,11.41
+Jamaica,2003,Rural,10.5
+Jamaica,2002,Rural,10.96
+Jamaica,1997,Rural,6.86
+Jamaica,1996,Rural,5.26
+Jamaica,1995,Rural,8.1
+Jamaica,1994,Rural,8.03
+Jamaica,1993,Rural,13.59
+Jamaica,1992,Rural,9.42
+Jamaica,1991,Rural,10.51
+Jamaica,1990,Rural,6.83
+Jordan,2008,Rural,0.94
+Jordan,2006,Rural,4.8
+Jordan,2002,Rural,0.47
+Kazakhstan,2015,Rural,3.57
+Kazakhstan,2014,Rural,2.61
+Kazakhstan,2013,Rural,2.46
+Kazakhstan,2012,Rural,2.75
+Kazakhstan,2011,Rural,2.94
+Kazakhstan,2010,Rural,2.02
+Kazakhstan,2009,Rural,1.18
+Kazakhstan,2008,Rural,1.77
+Kazakhstan,2007,Rural,1.74
+Kazakhstan,2006,Rural,4.88
+Kazakhstan,2005,Rural,0.74
+Kazakhstan,2004,Rural,1.43
+Kazakhstan,2003,Rural,1.38
+Kazakhstan,2002,Rural,1.28
+Kazakhstan,2001,Rural,1.51
+Kenya,2015,Rural,5.19
+Kenya,2005,Rural,5.88
+Kenya,1997,Rural,5.64
+Kyrgyzstan,2016,Rural,3.88
+Kyrgyzstan,2015,Rural,3.89
+Kyrgyzstan,2014,Rural,2.46
+Kyrgyzstan,2013,Rural,2.27
+Kyrgyzstan,2012,Rural,2.14
+Kyrgyzstan,2011,Rural,3.68
+Kyrgyzstan,2010,Rural,4.15
+Kyrgyzstan,2009,Rural,4.73
+Kyrgyzstan,2008,Rural,4.41
+Kyrgyzstan,2007,Rural,2.86
+Kyrgyzstan,2006,Rural,4.75
+Kyrgyzstan,2005,Rural,5.94
+Lao People's Democratic Republic,2007,Rural,2.84
+Lao People's Democratic Republic,2002,Rural,3.19
+Latvia,2009,Rural,15.61
+Latvia,2008,Rural,16.24
+Latvia,2007,Rural,15.11
+Latvia,2005,Rural,11.84
+Latvia,2004,Rural,10.0
+Latvia,2003,Rural,9.04
+Latvia,2002,Rural,8.27
+Latvia,2000,Rural,10.59
+Lesotho,2010,Rural,3.68
+Lesotho,2002,Rural,1.8
+Lithuania,2010,Rural,10.98
+Lithuania,2008,Rural,11.0
+Lithuania,2004,Rural,10.49
+Lithuania,2003,Rural,9.08
+Lithuania,2002,Rural,11.27
+Lithuania,2001,Rural,10.59
+Lithuania,2000,Rural,9.86
+Lithuania,1999,Rural,7.96
+Lithuania,1998,Rural,6.5
+Luxembourg,2010,Rural,3.68
+Madagascar,2010,Rural,1.61
+Madagascar,2005,Rural,0.88
+Madagascar,2001,Rural,0.97
+Malawi,2016,Rural,4.6
+Malawi,2010,Rural,3.33
+Malawi,2004,Rural,2.21
+Malawi,1997,Rural,1.02
+Malaysia,2016,Rural,2.22
+Malaysia,2004,Rural,0.49
+Malaysia,1993,Rural,1.36
+Maldives,2016,Rural,11.83
+Maldives,2009,Rural,22.82
+Maldives,2004,Rural,7.81
+Mali,2016,Rural,6.32
+Mali,2015,Rural,3.78
+Mali,2014,Rural,5.76
+Mali,2013,Rural,4.92
+Mali,2011,Rural,2.81
+Mali,2009,Rural,4.68
+Mali,2001,Rural,3.93
+Mali,2000,Rural,7.05
+Mali,1994,Rural,6.82
+Malta,2010,Rural,17.47
+Mauritania,2014,Rural,16.09
+Mauritania,2008,Rural,11.39
+Mauritania,2004,Rural,11.13
+Mauritius,2006,Rural,5.71
+Mexico,2016,Rural,2.19
+Mexico,2014,Rural,3.76
+Mexico,2012,Rural,3.62
+Mexico,2010,Rural,3.9
+Mexico,2008,Rural,4.81
+Mongolia,2014,Rural,4.32
+Mongolia,2012,Rural,2.2
+Mongolia,2011,Rural,1.7
+Mongolia,2010,Rural,1.2
+Mongolia,2007,Rural,1.07
+Mongolia,2002,Rural,0.1
+Montenegro,2015,Rural,11.51
+Montenegro,2014,Rural,7.51
+Montenegro,2013,Rural,8.38
+Montenegro,2012,Rural,7.81
+Montenegro,2011,Rural,7.09
+Montenegro,2010,Rural,4.98
+Montenegro,2009,Rural,5.85
+Montenegro,2008,Rural,6.71
+Montenegro,2007,Rural,3.82
+Montenegro,2006,Rural,4.14
+Montenegro,2005,Rural,4.71
+Morocco,2006,Rural,17.36
+Morocco,2000,Rural,10.22
+Mozambique,2014,Rural,1.65
+Mozambique,2008,Rural,1.24
+Mozambique,2002,Rural,1.59
+Myanmar,2015,Rural,14.83
+Namibia,2009,Rural,0.75
+Nepal,2014,Rural,10.19
+Nepal,2010,Rural,28.86
+Nepal,2003,Rural,10.36
+Nicaragua,2014,Rural,16.58
+Nicaragua,2009,Rural,18.93
+Nicaragua,2001,Rural,15.84
+Nicaragua,1998,Rural,13.86
+Nicaragua,1993,Rural,8.06
+Niger,2011,Rural,5.22
+Niger,2007,Rural,3.24
+Niger,2005,Rural,3.18
+Nigeria,2003,Rural,14.98
+Oman,1999,Rural,0.67
+Pakistan,2015,Rural,5.39
+Pakistan,2013,Rural,6.94
+Pakistan,2011,Rural,4.37
+Pakistan,2010,Rural,3.61
+Pakistan,2007,Rural,3.35
+Pakistan,2004,Rural,3.8
+Pakistan,2001,Rural,6.92
+Pakistan,1991,Rural,4.56
+Panama,1997,Rural,8.27
+Paraguay,2014,Rural,10.72
+Paraguay,2000,Rural,10.86
+Peru,2018,Rural,6.51
+Peru,2017,Rural,6.14
+Peru,2016,Rural,7.18
+Peru,2015,Rural,7.21
+Peru,2014,Rural,7.75
+Peru,2013,Rural,8.6
+Peru,2012,Rural,9.97
+Peru,2011,Rural,9.64
+Peru,2010,Rural,8.88
+Peru,2009,Rural,8.17
+Peru,2008,Rural,10.09
+Peru,2007,Rural,8.92
+Peru,2006,Rural,7.86
+Peru,2000,Rural,12.95
+Poland,2016,Rural,14.54
+Poland,2015,Rural,14.7
+Poland,2014,Rural,13.25
+Poland,2013,Rural,13.84
+Poland,2012,Rural,14.56
+Poland,2011,Rural,12.81
+Poland,2009,Rural,13.12
+Poland,2008,Rural,13.2
+Poland,2007,Rural,13.35
+Poland,2006,Rural,13.2
+Poland,2005,Rural,14.26
+Poland,2004,Rural,14.24
+Poland,2003,Rural,13.63
+Poland,2002,Rural,12.56
+Poland,2001,Rural,12.07
+Poland,2000,Rural,12.25
+Poland,1999,Rural,11.5
+Poland,1998,Rural,10.81
+Portugal,2010,Rural,21.0
+Republic of Korea,2015,Rural,23.57
+Republic of Korea,2014,Rural,20.94
+Republic of Korea,2013,Rural,21.6
+Republic of Korea,2012,Rural,22.32
+Republic of Korea,2011,Rural,20.1
+Republic of Korea,2010,Rural,21.63
+Republic of Korea,2009,Rural,21.66
+Republic of Korea,2008,Rural,20.34
+Republic of Korea,2007,Rural,22.29
+Republic of Korea,2006,Rural,19.32
+Republic of Korea,2005,Rural,16.47
+Republic of Korea,2004,Rural,15.1
+Republic of Korea,2003,Rural,17.13
+Republic of Moldova,2016,Rural,17.47
+Republic of Moldova,2015,Rural,17.87
+Republic of Moldova,2014,Rural,14.54
+Republic of Moldova,2013,Rural,16.86
+Republic of Moldova,2012,Rural,18.05
+Republic of Moldova,2011,Rural,16.47
+Republic of Moldova,2010,Rural,19.42
+Republic of Moldova,2009,Rural,16.19
+Republic of Moldova,2008,Rural,14.32
+Republic of Moldova,2007,Rural,13.59
+Republic of Moldova,2006,Rural,14.41
+Republic of Moldova,2005,Rural,10.32
+Republic of Moldova,2004,Rural,8.36
+Republic of Moldova,2003,Rural,10.13
+Republic of Moldova,2002,Rural,9.18
+Republic of Moldova,2001,Rural,8.21
+Republic of Moldova,2000,Rural,5.66
+Republic of Moldova,1999,Rural,5.68
+The former Yugoslav Republic of Macedonia,2008,Rural,4.64
+The former Yugoslav Republic of Macedonia,2006,Rural,9.91
+The former Yugoslav Republic of Macedonia,2005,Rural,6.96
+The former Yugoslav Republic of Macedonia,2004,Rural,8.4
+The former Yugoslav Republic of Macedonia,2003,Rural,6.98
+The former Yugoslav Republic of Macedonia,2002,Rural,7.71
+The former Yugoslav Republic of Macedonia,2000,Rural,2.46
+The former Yugoslav Republic of Macedonia,1999,Rural,1.22
+The former Yugoslav Republic of Macedonia,1998,Rural,1.18
+The former Yugoslav Republic of Macedonia,1997,Rural,1.44
+The former Yugoslav Republic of Macedonia,1996,Rural,1.16
+Romania,2016,Rural,14.24
+Romania,2013,Rural,14.94
+Romania,2012,Rural,9.31
+Romania,2011,Rural,9.79
+Romania,2010,Rural,9.37
+Romania,2009,Rural,9.55
+Romania,2008,Rural,10.83
+Romania,2007,Rural,7.95
+Romania,2006,Rural,8.67
+Romania,2005,Rural,8.03
+Romania,2004,Rural,9.22
+Romania,2003,Rural,6.53
+Romania,2002,Rural,6.64
+Romania,2001,Rural,5.95
+Romania,2000,Rural,5.69
+Romania,1999,Rural,5.69
+Romania,1998,Rural,4.92
+Russian Federation,2014,Rural,4.98
+Russian Federation,2013,Rural,4.93
+Russian Federation,2012,Rural,3.12
+Russian Federation,2011,Rural,4.05
+Russian Federation,2010,Rural,3.45
+Russian Federation,2004,Rural,1.65
+Russian Federation,2003,Rural,1.18
+Russian Federation,2002,Rural,2.06
+Russian Federation,2001,Rural,1.33
+Russian Federation,2000,Rural,1.73
+Russian Federation,1999,Rural,1.58
+Russian Federation,1998,Rural,1.47
+Russian Federation,1997,Rural,2.53
+Russian Federation,1993,Rural,2.41
+Rwanda,2016,Rural,1.13
+Rwanda,2013,Rural,1.67
+Sao Tome and Principe,2000,Rural,7.68
+Senegal,2011,Rural,3.49
+Senegal,2005,Rural,1.09
+Senegal,2001,Rural,1.93
+Serbia,2015,Rural,7.18
+Serbia,2013,Rural,9.22
+Serbia,2010,Rural,10.11
+Serbia,2009,Rural,7.89
+Serbia,2008,Rural,8.81
+Serbia,2007,Rural,10.68
+Serbia,2006,Rural,9.8
+Serbia,2005,Rural,10.08
+Serbia,2004,Rural,7.61
+Serbia,2003,Rural,7.26
+Seychelles,2013,Rural,3.46
+Sierra Leone,2011,Rural,54.53
+Sierra Leone,2003,Rural,9.09
+Slovakia,2010,Rural,3.64
+Slovakia,2009,Rural,4.55
+Slovakia,2008,Rural,4.49
+Slovakia,2007,Rural,3.98
+Slovakia,2006,Rural,3.67
+Slovakia,2005,Rural,5.36
+Slovakia,2004,Rural,4.93
+South Africa,2010,Rural,1.41
+South Africa,2005,Rural,1.94
+South Africa,2000,Rural,1.84
+South Sudan,2009,Rural,7.7
+Spain,2010,Rural,6.02
+Sri Lanka,2016,Rural,5.4
+Sri Lanka,2012,Rural,5.35
+Sudan (until 2011),2009,Rural,19.72
+Suriname,2016,Rural,4.39
+Tajikistan,2009,Rural,18.13
+Tajikistan,2007,Rural,11.58
+Tajikistan,2003,Rural,16.94
+Tajikistan,1999,Rural,13.67
+Thailand,2017,Rural,2.07
+Thailand,2009,Rural,1.39
+Thailand,2006,Rural,2.45
+Thailand,2002,Rural,3.02
+Timor-Leste,2014,Rural,1.93
+Timor-Leste,2011,Rural,0.04
+Timor-Leste,2007,Rural,0.0
+Timor-Leste,2001,Rural,3.01
+Togo,2006,Rural,11.61
+Trinidad and Tobago,2014,Rural,5.48
+Tunisia,2010,Rural,18.42
+Turkey,2013,Rural,3.73
+Turkey,2012,Rural,3.62
+Turkey,2011,Rural,4.12
+Turkey,2010,Rural,5.34
+Turkey,2009,Rural,4.35
+Turkey,2008,Rural,3.75
+Turkey,2007,Rural,6.27
+Turkey,2006,Rural,5.67
+Turkey,2005,Rural,5.75
+Turkey,2004,Rural,6.08
+Turkey,2003,Rural,5.31
+Turkey,2002,Rural,7.94
+Uganda,2016,Rural,15.79
+Uganda,2012,Rural,15.38
+Uganda,2009,Rural,19.91
+Uganda,2002,Rural,12.41
+Ukraine,2014,Rural,7.31
+Ukraine,2013,Rural,8.12
+Ukraine,2012,Rural,8.39
+Ukraine,2011,Rural,7.2
+Ukraine,2010,Rural,6.52
+Ukraine,2009,Rural,6.99
+Ukraine,2008,Rural,7.01
+Ukraine,2007,Rural,10.51
+Ukraine,2006,Rural,8.45
+Ukraine,2005,Rural,8.59
+Ukraine,2004,Rural,10.31
+Ukraine,2003,Rural,8.77
+Ukraine,2002,Rural,12.3
+United Republic of Tanzania,2011,Rural,4.25
+United Republic of Tanzania,2007,Rural,2.11
+United Republic of Tanzania,2000,Rural,1.69
+United States of America,2013,Rural,8.16
+United States of America,2012,Rural,7.55
+United States of America,2011,Rural,8.19
+United States of America,2010,Rural,7.82
+United States of America,2009,Rural,7.81
+United States of America,2008,Rural,7.85
+United States of America,2007,Rural,8.58
+United States of America,2006,Rural,9.44
+United States of America,2005,Rural,8.81
+United States of America,2004,Rural,8.76
+United States of America,2003,Rural,8.52
+United States of America,2002,Rural,10.06
+United States of America,2001,Rural,9.0
+United States of America,2000,Rural,9.14
+Uzbekistan,2003,Rural,5.46
+Uzbekistan,2002,Rural,5.67
+Uzbekistan,2000,Rural,7.51
+Viet Nam,2016,Rural,9.51
+Viet Nam,2014,Rural,10.83
+Viet Nam,2012,Rural,9.44
+Viet Nam,2010,Rural,12.63
+Viet Nam,2008,Rural,15.67
+Viet Nam,2006,Rural,15.16
+Viet Nam,2004,Rural,16.63
+Viet Nam,2002,Rural,13.61
+Viet Nam,1998,Rural,15.28
+Viet Nam,1997,Rural,15.28
+Viet Nam,1992,Rural,21.51
+Yemen,2014,Rural,17.32
+Yemen,2005,Rural,16.73
+Yemen,1998,Rural,6.33
+Zambia,2010,Rural,0.25
+Zambia,2006,Rural,1.72
+Zambia,2004,Rural,2.45
+Zimbabwe,2007,Rural,1.07
